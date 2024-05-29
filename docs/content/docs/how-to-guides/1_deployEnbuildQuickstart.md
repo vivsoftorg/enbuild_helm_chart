@@ -66,7 +66,6 @@ For local deployment however we require minimum deployment values.
 
 Refer to the [example helm input file](https://github.com/vivsoftorg/enbuild/blob/main/examples/enbuild/quick_install.yaml) for guidance.
 
-
 :zap: **Note:** The `imageCredentials` section is only required if the images are not public.
 
 ### Deploy ENBUILD HELM Chart
@@ -147,8 +146,7 @@ After you set the initial admin password, you should see the ENBUILD home page w
 
 <picture><img src="/images/deployEnbuildQuickstart/enbuild_home_page_first_login.png" alt="Screenshot of ENBUILD Home Screen"></img></picture>
 
-
-:zap: ***[Proceed to Configureing ENBUILD](../configuring-enbuild/)***
+:zap: **_[Proceed to Configureing ENBUILD](../configuring-enbuild/)_**
 
 ### Uninstall ENBUILD
 
